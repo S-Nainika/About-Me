@@ -1,13 +1,13 @@
 
 
-<h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/tatheer-fathima-5ba16b275/" target="_blank">Satyala Nainika</a> 👋</h1>  
+<h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/satyala-nainika-900195322/" target="_blank">Satyala Nainika</a> 👋</h1>  
 <h3 align="center">🌟 A Pre-Final Year Undergrad Exploring the Tech Universe! 🌟</h3>  
 
 <p align="center">
-  <a href="https://github.com/T-Fathima">
-    <img src="https://img.shields.io/github/followers/T-Fathima?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/S-Nainika">
+    <img src="https://img.shields.io/github/followers/S-Nainika?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=T-Fathima&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=S-Nainika&color=Yellow" alt="Profile Views" />
 </p>
 
 ---
