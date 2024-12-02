@@ -1,8 +1,6 @@
-Here's a cleaner and visually more appealing version of your GitHub README:
 
----
 
-<h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/tatheer-fathima-5ba16b275/" target="_blank">Tatheer Fathima</a> 👋</h1>  
+<h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/tatheer-fathima-5ba16b275/" target="_blank">Satyala Nainika</a> 👋</h1>  
 <h3 align="center">🌟 A Pre-Final Year Undergrad Exploring the Tech Universe! 🌟</h3>  
 
 <p align="center">
@@ -30,45 +28,6 @@ Here's a cleaner and visually more appealing version of your GitHub README:
 | **Languages**            | **Frontend**                | **Backend**                | **Tools**                  |
 |---------------------------|-----------------------------|----------------------------|----------------------------|
 | ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java)  | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) |
-
----
-
-## 🏆 **Achievements**
-
-### 🎉 **Holopin Badges – Hacktoberfest 2024**  
-[![An image of @Tatheer Fathima's Holopin badges](https://holopin.me/@tfathima)](https://holopin.io/@tfathima)
-
-### 🌟 **GSSOC(24) Badges**  
-<div align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" />
-  </a>
-</div>
-
----
-
-## 📊 **GitHub Stats**  
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T-Fathima&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=T-Fathima&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Fathima&theme=radical" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
 
 ---
 
