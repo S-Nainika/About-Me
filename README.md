@@ -15,9 +15,10 @@
 <div align="left">
 
 ### 🌱 **Bio**  
-- 💻 Just your average third-year student juggling assignments, projects, and a little sleep.  
-- 📫 **Reach me at**: [tatheerfathima2004@gmail.com](mailto:tatheerfathima2004@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/tatheer-fathima-5ba16b275).  
-- 😄 **Fun Fact**: Tried fixing a bug once and ended up creating three more. #CoderLife  
+- 💻  A BTech student constantly learning and experimenting with new tech, from web development to AI, while navigating deadlines and projects.🚀  
+- 😄 **Fun Fact**: What seemed impossible at first is now my favorite part of the journey—coding has become my passion. 💻❤️#EngineeringJourney
+- 📫 **Reach me at**: [nainikasatyala1712@gmail.com](mailto:nainikasatyala1712@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/satyala-nainika-900195322).  
+
 
 </div>
 
