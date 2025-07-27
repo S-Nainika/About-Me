@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/satyala-nainika-900195322/" target="_blank">Satyala Nainika</a> 👋</h1>  
-<h3 align="center">🌟🚀 A Pre-Final Year BTech Student Navigating the World of Tech and Innovation! 💻 🌟</h3>  
+<h3 align="center">🌟🚀 A Final Year BTech Student Navigating the World of Tech and Innovation! 💻 🌟</h3>  
 
 <p align="center">
   <a href="https://github.com/S-Nainika">
